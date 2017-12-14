@@ -1,0 +1,51 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Search_for_a_Number
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var myList = Console.ReadLine().Split().Select(int.Parse).ToList();
+
+            int[] commands = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+
+            List<int> takenElements = new List<int>();
+
+            for (int i = 0; i < commands[0]; i++)
+            {
+                takenElements.Add(myList[i]);
+            }
+
+            takenElements.RemoveRange(0, commands[1]);
+
+            bool isFound = false;
+
+            for (int i = 0; i < takenElements.Count; i++)
+            {
+                if (commands[2]==takenElements[i])
+                {
+                    Console.WriteLine("YES!");
+                    isFound = true;
+                    break;
+                }
+                else
+                {
+
+                    isFound = false;
+                }
+            }
+
+            if (isFound==false)
+            {
+                Console.WriteLine("NO!");
+            }
+           
+        }
+    }
+}
