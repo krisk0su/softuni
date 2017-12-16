@@ -44,8 +44,8 @@ namespace DefiningClassesLab
         private static void Print(string[] commands, Dictionary<int, BankAccount> myData)
         {
             int id = int.Parse(commands[1]);
+            
 
-            ExistValidation(id, myData);
             if (!myData.ContainsKey(id))
             {
                 Console.WriteLine("Account does not exist");
@@ -54,11 +54,6 @@ namespace DefiningClassesLab
             {
                 Console.WriteLine($"Account ID{myData[id].ID}, balance {myData[id].Balance:F2}");
             }
-        }
-
-        private static void ExistValidation(int id, Dictionary<int, BankAccount> myData)
-        {
-            
         }
 
         private static void Withdraw(string[] commands, Dictionary<int, BankAccount> myData)
