@@ -1,0 +1,7 @@
+C:\Users\KremenaKranteva\Desktop\oop\DefiningClassesLab\DefiningClassesLab\bin\Debug\DefiningClassesLab.exe.config
+C:\Users\KremenaKranteva\Desktop\oop\DefiningClassesLab\DefiningClassesLab\bin\Debug\DefiningClassesLab.exe
+C:\Users\KremenaKranteva\Desktop\oop\DefiningClassesLab\DefiningClassesLab\bin\Debug\DefiningClassesLab.pdb
+C:\Users\KremenaKranteva\Desktop\oop\DefiningClassesLab\DefiningClassesLab\obj\Debug\DefiningClassesLab.csprojResolveAssemblyReference.cache
+C:\Users\KremenaKranteva\Desktop\oop\DefiningClassesLab\DefiningClassesLab\obj\Debug\DefiningClassesLab.csproj.CoreCompileInputs.cache
+C:\Users\KremenaKranteva\Desktop\oop\DefiningClassesLab\DefiningClassesLab\obj\Debug\DefiningClassesLab.exe
+C:\Users\KremenaKranteva\Desktop\oop\DefiningClassesLab\DefiningClassesLab\obj\Debug\DefiningClassesLab.pdb
