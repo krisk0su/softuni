@@ -1,0 +1,11 @@
+C:\Users\KristianKarakolev\Desktop\OOP\DefiningClasses - Exercise\DefineAClassPerson\bin\Debug\netcoreapp2.0\DefineAClassPerson.deps.json
+C:\Users\KristianKarakolev\Desktop\OOP\DefiningClasses - Exercise\DefineAClassPerson\bin\Debug\netcoreapp2.0\DefineAClassPerson.runtimeconfig.json
+C:\Users\KristianKarakolev\Desktop\OOP\DefiningClasses - Exercise\DefineAClassPerson\bin\Debug\netcoreapp2.0\DefineAClassPerson.runtimeconfig.dev.json
+C:\Users\KristianKarakolev\Desktop\OOP\DefiningClasses - Exercise\DefineAClassPerson\bin\Debug\netcoreapp2.0\DefineAClassPerson.dll
+C:\Users\KristianKarakolev\Desktop\OOP\DefiningClasses - Exercise\DefineAClassPerson\bin\Debug\netcoreapp2.0\DefineAClassPerson.pdb
+C:\Users\KristianKarakolev\Desktop\OOP\DefiningClasses - Exercise\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.csprojResolveAssemblyReference.cache
+C:\Users\KristianKarakolev\Desktop\OOP\DefiningClasses - Exercise\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\KristianKarakolev\Desktop\OOP\DefiningClasses - Exercise\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\KristianKarakolev\Desktop\OOP\DefiningClasses - Exercise\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.AssemblyInfo.cs
+C:\Users\KristianKarakolev\Desktop\OOP\DefiningClasses - Exercise\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.dll
+C:\Users\KristianKarakolev\Desktop\OOP\DefiningClasses - Exercise\DefineAClassPerson\obj\Debug\netcoreapp2.0\DefineAClassPerson.pdb
