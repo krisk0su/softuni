@@ -1,0 +1,11 @@
+C:\Users\KristianKarakolev\Desktop\OOP\InheritanceExercise\Person\bin\Debug\netcoreapp2.0\Person.deps.json
+C:\Users\KristianKarakolev\Desktop\OOP\InheritanceExercise\Person\bin\Debug\netcoreapp2.0\Person.runtimeconfig.json
+C:\Users\KristianKarakolev\Desktop\OOP\InheritanceExercise\Person\bin\Debug\netcoreapp2.0\Person.runtimeconfig.dev.json
+C:\Users\KristianKarakolev\Desktop\OOP\InheritanceExercise\Person\bin\Debug\netcoreapp2.0\Person.dll
+C:\Users\KristianKarakolev\Desktop\OOP\InheritanceExercise\Person\bin\Debug\netcoreapp2.0\Person.pdb
+C:\Users\KristianKarakolev\Desktop\OOP\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.csprojResolveAssemblyReference.cache
+C:\Users\KristianKarakolev\Desktop\OOP\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\KristianKarakolev\Desktop\OOP\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.AssemblyInfoInputs.cache
+C:\Users\KristianKarakolev\Desktop\OOP\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.AssemblyInfo.cs
+C:\Users\KristianKarakolev\Desktop\OOP\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.dll
+C:\Users\KristianKarakolev\Desktop\OOP\InheritanceExercise\Person\obj\Debug\netcoreapp2.0\Person.pdb
