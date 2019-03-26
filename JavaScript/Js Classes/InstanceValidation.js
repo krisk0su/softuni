@@ -26,7 +26,7 @@ class CheckingAccount{
     }
     setName(name, output){
         if(name.length<3 || name.length > 20){
-            throw new TypeError(`${output} name must be between 3 and 20 characters long`);
+            throw new TypeError(`${output} must be between 3 and 20 characters long`);
         }
         const regex = /[a-zA-Z]+/gm;
         if(!regex.test(name)){
