@@ -5,7 +5,7 @@
     <title>Biggest Catch</title>
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script src="catch.js"></script>
-    <style></style>
+    <link rel="stylesheet" href="./Index.css" />
   </head>
   <body>
     <h1>Biggest Catches</h1>
@@ -31,22 +31,22 @@
       </div>
     </fieldset>
     <div id="aside">
-      <button class="load">Load</button>
+      <button id="loadCatches" class="load">Load</button>
       <fieldset id="addForm">
         <legend>Add Catch</legend>
         <label>Angler</label>
-        <input type="text" class="angler" />
+        <input id="angler" type="text" class="angler" />
         <label>Weight</label>
-        <input type="number" class="weight" />
+        <input id="weight" type="number" class="weight" />
         <label>Species</label>
-        <input type="text" class="species" />
+        <input id="species" type="text" class="species" />
         <label>Location</label>
-        <input type="text" class="location" />
+        <input id="location" type="text" class="location" />
         <label>Bait</label>
-        <input type="text" class="bait" />
+        <input id="bait" type="text" class="bait" />
         <label>Capture Time</label>
-        <input type="number" class="captureTime" />
-        <button class="add">Add</button>
+        <input id="captureTime" type="number" class="captureTime" />
+        <button id="addFish" class="add">Add</button>
       </fieldset>
     </div>
     <script>
