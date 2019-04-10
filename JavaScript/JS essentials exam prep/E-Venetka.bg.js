@@ -139,8 +139,9 @@ function solve(arr) {
 
   console.log(outputResult);
 }
+//softuni.bg/certificates/certificates/converttoimage/51347?code=e91287ce
 
-solve([
+https: solve([
   { model: "BMW", regNumber: "B1234SM", town: "Varna", price: 2 },
   { model: "BMW", regNumber: "C5959CZ", town: "Sofia", price: 8 },
   { model: "Tesla", regNumber: "NIKOLA", town: "Burgas", price: 9 },
